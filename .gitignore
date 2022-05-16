@@ -1,0 +1,5 @@
+bazel-rules_go-3154-repro
+bazel-bin
+bazel-genfiles
+bazel-out
+bazel-testlogs
